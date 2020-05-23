@@ -1,0 +1,400 @@
+.a-1{
+  color: #fffffd;
+  position: absolute;
+  top: 240px;
+  right: 800px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.a-2{
+  color: white;
+  position: absolute;
+  top: 280px;
+  right: 775px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.a-3{
+  color: white;
+  position: absolute;
+  top: 320px;
+  right: 830px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.a-4{
+  color: white;
+  position: absolute;
+  top: 240px;
+  right: 600px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.a-5{
+  color: white;
+  position: absolute;
+  top: 280px;
+  right: 610px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.a-6{
+  color: white;
+  position: absolute;
+  top: 320px;
+  right: 565px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.background-image{
+  position: relative;
+}
+
+.b-logo{
+  position: absolute;
+  top: 150px;
+  left: 100px;
+}
+
+.container-2{
+  position: relative;
+}
+
+.Copyright{
+  font-size: 12px;
+  color: white;
+  position: absolute;
+  bottom: 50px;
+  right: 90px;
+}
+
+.call{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 320px;
+  left: 120px;
+}
+
+.call-p{
+  position: absolute;
+  color: white;
+  top: 305px;
+  left: 160px;
+
+}
+
+.container-2i{
+  position: absolute;
+  margin: 9.375rem 6.25rem 7.5rem 6.25rem;
+  width: 1300px;
+  height: 450px;
+  border-style: solid;
+  border-color: #f7f7f7;
+  border-width: 2px;
+  border-radius: 20px;
+}
+
+.c-2ii{
+  position: absolute;
+  margin: 43.75rem 6.25rem 7.5rem 6.25rem;
+  width: 1300px;
+  height: 450px;
+  border-style: solid;
+  border-color: #f7f7f7;
+  border-width: 2px;
+  border-radius: 20px;
+}
+
+.c-2iii{
+  position: absolute;
+  margin: 78.125rem 6.25rem 7.5rem 6.25rem;
+  width: 1300px;
+  height: 450px;
+  border-style: solid;
+  border-color: #f7f7f7;
+  border-width: 2px;
+  border-radius: 20px;
+}
+
+.container-3{
+  position: absolute;
+  top: 2700px;
+  /*margin: 200px 0 0 0;*/
+  background-color: #00252E;
+  height: 500px;
+  width: 100%;
+}
+
+.c-3i{
+  position: absolute;
+  height: 200px;
+  border-style: solid;
+  border-color: #f7f7f7;
+  border-width: 2px;
+  border-radius: 10px;
+  width: 50%;
+  left: 370px;
+  bottom: 400px;
+  background-color: white;
+}
+
+.c-3h{
+  position: absolute;
+  right: 120px;
+  top: 10px;
+  color: #1b262c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fb{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  right: 300px;
+  top: 240px;
+}
+
+.f-c{
+  float: left;
+  height: 85%;
+  width: 40%;
+  margin: 30px 15px;
+}
+
+.f-c-h{
+  position: absolute;
+  right: 150px;
+  top: 120px;
+  color: #1b262c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.f-c-p{
+  position: absolute;
+  right: 110px;
+  width: 30%;
+  top: 180px;
+  color: #888888;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.00rem;
+  line-height: 1.5;
+}
+
+.grow-together{
+  float: right;
+  height: 85%;
+  width: 40%;
+  margin: 30px 15px;
+}
+
+.grow-together-heading{
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  color: #1b262c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.grow-together-para{
+  position: absolute;
+  left: 100px;
+  width: 30%;
+  top: 180px;
+  color: #888888;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.00rem;
+  line-height: 1.5;
+}
+
+.h11st{
+  position: absolute;
+  top: 240px;
+  left: 50px;
+  width: 35%;
+  font-size: 2.5rem;
+  color: #1b262c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.insta{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  right: 240px;
+  top: 240px;
+}
+
+.l-add{
+  width: 20%;
+  color: white;
+  position: absolute;
+  top: 220px;
+  left: 160px;
+}
+
+.location{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 240px;
+  left: 120px;
+}
+
+.logo-image{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 200px;
+}
+
+.mail{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 380px;
+  left: 120px;
+}
+
+.mail-p{
+  position: absolute;
+  color: white;
+  top: 360px;
+  left: 160px;
+}
+
+.mockup{
+  position: absolute;
+  right: 80px;
+  top: 150px;
+  width: 800px;
+  float: right;
+}
+
+.myButton {
+	box-shadow: 0 0 6px -1px #0a0a0a;
+	background-color:#fafafa;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:13px 52px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #050505;
+  position: absolute;
+  top: 40px;
+  right: 80px;
+}
+.myButton:hover {
+	background-color:#f5fffe;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton2 {
+	background-color:#fe52bf;
+	border-radius:28px;
+	border:1px solid #f79ef7;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:16px 59px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #f2afee;
+  position: absolute;
+  top: 490px;
+  left: 50px;
+}
+.myButton2:hover {
+	background-color:#eb6aeb;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton3 {
+	background-color:#fe52bf;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:21px 62px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #ffffff;
+  position: absolute;
+  top: 100px;
+  left: 250px;
+}
+.myButton3:hover {
+	background-color:#ff5cff;
+}
+.myButton3:active {
+	position:relative;
+	top:1px;
+}
+
+.top-container{
+  position: relative;
+}
+
+.top-para{
+  position: absolute;
+  left: 50px;
+  top: 350px;
+  width: 30%;
+  color: #323232;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 40px;
+  line-height: 1.5;
+}
+
+.twitter{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  right: 270px;
+  top: 240px;
+}
+
+.y-u{
+  float: right;
+  height: 85%;
+  width: 40%;
+  margin: 30px 15px;
+}
+
+.y-u-h{
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  color: #1b262c;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.y-u-p{
+  position: absolute;
+  left: 100px;
+  width: 30%;
+  top: 180px;
+  color: #888888;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.00rem;
+  line-height: 1.5;
+}
